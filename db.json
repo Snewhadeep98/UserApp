@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "firstName": "Ankur",
+      "lastName": "Tikoo12345",
+      "email": "anti@cmrit.ac.in",
+      "mobile": "9847309846",
+      "salary": "20000"
+    },
+    {
+      "id": 4,
+      "firstName": "Hardik",
+      "lastName": "Yadav",
+      "email": "haya@cmrit.ac.in",
+      "mobile": "8976535465",
+      "salary": "40000"
+    },
+    {
+      "id": 5,
+      "firstName": "asasas",
+      "lastName": "asas",
+      "email": "abc@gmail.com",
+      "mobile": "5645645636",
+      "salary": "453435"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "Rohit Pradeep",
+      "email": "ropr18cs@cmrit.ac.in",
+      "password": "Deep@123",
+      "mobile": 9837467362,
+      "id": 1
+    },
+    {
+      "fullname": "Snewhadeep Saha",
+      "email": "snsa18cs@cmrit.ac.in",
+      "password": "Rajsaha123",
+      "mobile": 7908313066,
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
